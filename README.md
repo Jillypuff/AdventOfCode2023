@@ -22,6 +22,4 @@ Might come back to it later if I have time.
 ## Day 4:
 
 Once again I don't have that much time but now I atleast completed the first one.
-I used chatgpt to turn one of my method into a linq statement for practice but the logic was the same as the one I wrote before.
-I try to do everything myself first and just use chatgpt to make my code fancy, and not to help me solve the problems.
-I'm not going to atempt the second because I have to go to bed now, but it looks doable so I might come back tomorrow and see if I can finish this.
+
